@@ -88,6 +88,7 @@ const DEFAULT_PACKING = {
           { id:'b1_18', name:'Formal / smart casual shoes', quantity:1, estimatedWeight:600, packed:false, skipped:false, notes:'Presentations, networking', deadline:null },
           { id:'b1_19', name:'Athletic/running shoes', quantity:1, estimatedWeight:600, packed:false, skipped:false, notes:'Gym + weekend runs', deadline:null },
           { id:'b1_20', name:'Flip-flops / slippers', quantity:1, estimatedWeight:200, packed:false, skipped:false, notes:'Dorm bathroom, indoor use', deadline:null },
+          { id:'b1_21x', name:'New shoes (arriving June 2)', quantity:1, estimatedWeight:700, packed:false, skipped:false, notes:'Shoes arrive by June 2 — pack as soon as they arrive', deadline:'2026-06-02T23:59:00+05:30' },
         ]},
         { id: 'rain', name: 'Rain Gear', emoji: '🌧️', items: [
           { id:'b1_21', name:'Compact travel umbrella', quantity:1, estimatedWeight:300, packed:false, skipped:false, notes:'Buffalo afternoon thunderstorms', deadline:null },
