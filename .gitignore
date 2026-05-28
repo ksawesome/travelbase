@@ -1,0 +1,12 @@
+# Personal documents — do NOT push to public repo
+us intern/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
+*.swo
